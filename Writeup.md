@@ -1,13 +1,43 @@
 Alzheimer’s With Abdullah & Matthew
 ================
 
-## Introduction:
+# Introduction:
 
-# A link to your dataset
+## <https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global>
 
-A description of your dataset (what the variables and observations
-represent) A description of your motivation for studying this dataset
-Basic summary statistics about your dataset
+## Variable Overview:
+
+- Binary (0 or 1):
+  - Diabetes
+  - Hypertension
+- Nominal (range of Numbers):
+  - Country
+  - Gender
+  - Physical Activity Level
+- Ordinal ():
+  - Stress Level
+  - Education Level
+- Discrete ():
+  - Age
+  - Cognitive Test Score
+- Continuous ():
+  - BMI
+- A description of your dataset (what the variables and observations
+  represent) A description of your motivation for studying this dataset
+
+## Dataset Overview:
+
+- Size:
+  - 74,283 records
+  - 25 features
+- Features:
+  - Includes demographic data
+  - Lifestyle habits
+  - Genetic risk factors
+  - Age
+  - Cognitive scores
+  - Alzheimer’s diagnosis
+  - Many, Many, More…
 
 ## Visualizations
 
